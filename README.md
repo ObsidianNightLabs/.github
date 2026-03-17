@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obsidiannightlabs/.github/blob/main/ObsidianNite_Logo.png" width="140">
+  <img src="https://raw.githubusercontent.com/obsidiannightlabs/.github/main/Logo.png" width="140">
 </p>
 
 # ObsidianNightLabs
